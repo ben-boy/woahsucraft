@@ -1,4 +1,5 @@
-#header {
-    font: 
+.header {
+    font-family: 'Alata', sans-serif;
     font-weight: bold;
+    padding-left: 20px;
 }
